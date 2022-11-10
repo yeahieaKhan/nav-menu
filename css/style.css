@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+/* =======================================================
+    Template Name: khanSoftware
+    Created By: yeahea khan
+    Envato Profile: 
+    Website: 
+    Version: 1.0.0
+    Support: 
+========================================================= */
+
+
+
+/* 
+====================================
+[ CSS TABLE CONTENT ]
+------------------------------------
+    1.0 - General
+    2.0 - Typography
+    3.0 - Header Area
+    5.0 - Service Area
+    6.0 - Works Area
+    7.0 - Testimonial Area
+    8.0 - Team Area
+    9.0 - Blog Area
+    10.0 - Clients Area
+    11.0 - Contact Area
+    12.0 - Footer Area
+   
+-------------------------------------
+[ END CSS TABLE CONTENT ]
+===================================== 
+*/
+
+/* =-=-=-=-=-=-=-=-=-=-=-=-=-1.0 Genera=-=-=-=-=-=-=-=-=-=-=-=-= */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+/* =-=-=-=-=-=-=-=-=-=-=-=-=-1.0 Genera=-=-=-=-=-=-=-=-=-=-=-=-= */
+
+
+
+/* =-=-=-=-=-=-=-=-=-=-=-=-=- 2.0 Typograph =-=-=-=-=-=-=-=-=-=-=-=-= */
+h1, h2, h3, h4, h5, h6 {
+	color: #000;
+}
+h1{
+	font-size: 40px;
+}
+h2{
+	font-size: 35px;
+}
+h3{
+	font-size: 30px;
+}
+h4{
+	font-size: 25px;
+}
+h5{
+	font-size: 20px;
+}
+h6{
+	font-size: 18px;
+}
+
+/* =-=-=-=-=-=-=-=-=-=-=-=-=- 2.0 Typograph =-=-=-=-=-=-=-=-=-=-=-=-= */
+
+/* =-=-=-=-=-=-=-=-=-=-=-=-=- 3.0 Header =-=-=-=-=-=-=-=-=-=-=-=-= */
+
+
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+.menu-section{
+	background-color: #d63031;
+	padding: 20px 0;
+}
+.logo a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+}
+
+.menu-icon{
+	display: none;
+}
+
+.menu ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 0 20px;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
